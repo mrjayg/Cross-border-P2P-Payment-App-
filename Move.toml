@@ -1,0 +1,15 @@
+[package]
+name = "Cross-border_P2P_Payment_App"
+version = "1.0.0"
+authors = []
+
+[addresses]
+MyModule = '0x6ac051280d1664a8777b326d89cf9c17584b277e9534946ed76a40796b73dad3'
+[dev-addresses]
+
+[dependencies.AptosFramework]
+git = "https://github.com/aptos-labs/aptos-framework.git"
+rev = "mainnet"
+subdir = "aptos-framework"
+
+[dev-dependencies]
