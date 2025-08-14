@@ -1,5 +1,3 @@
-<img width="1919" height="958" alt="image" src="https://github.com/user-attachments/assets/48ff4469-e99a-4570-8753-8ad998c8aceb" /># Cross-Border Payment Smart Contract
-
 ## Description
 
 The Cross-Border Payment Smart Contract is a decentralized solution built on the Aptos blockchain that enables seamless international money transfers using cryptocurrency. This Move-based smart contract eliminates traditional banking intermediaries, reducing transaction fees and processing times for cross-border payments.
